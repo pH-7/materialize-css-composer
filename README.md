@@ -4,7 +4,13 @@
   </a>
 </p>
 
-<h3 align="center">MaterializeCSS</h3>
+<h3 align="center">MaterializeCSS for Packagist</h3>
+
+## Installation with Composer
+
+```console
+composer require ph-7/materialize-css
+```
 
 <p align="center">
   Materialize, a CSS Framework based on material design.
