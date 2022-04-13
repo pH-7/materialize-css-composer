@@ -6,6 +6,8 @@
 
 <h3 align="center">MaterializeCSS for Packagist</h3>
 
+# Matarialize v1.0 for PHP - Packagist 
+
 ## Installation with Composer
 
 ```console
