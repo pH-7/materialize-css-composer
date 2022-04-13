@@ -23,5 +23,6 @@
     "psr-0": {
       "Materialize": ""
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
