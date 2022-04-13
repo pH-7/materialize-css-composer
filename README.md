@@ -8,7 +8,7 @@
 
 # Matarialize v1.0 for PHP - Packagist 
 
-## Installation with Composer
+## Installation with Composer (*ideally, Composer v2*)
 
 ```console
 composer require ph-7/materialize-css
