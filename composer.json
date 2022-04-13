@@ -1,0 +1,27 @@
+{
+  "name": "ph-7/materialize-css",
+  "type": "library",
+  "description": "Builds Materialize distribution packages for PHP",
+  "keywords": ["css", "materialize", "php materialize", "materialize packagist", "materialize composer"],
+  "homepage": "https://materializecss.com",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alvin Wang",
+      "role": "Developer"
+    },
+    {
+      "name": "Alan Chang",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "components/jquery": "^3.2.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Materialize": ""
+    }
+  }
+}
